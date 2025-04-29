@@ -1,0 +1,11 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5; /* 行高 */
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility; /* 瀏覽器不要自己合成缺失的字體樣式 */
+  -webkit-font-smoothing: antialiased; /* 使字體細滑現代 */
+  -moz-osx-font-smoothing: grayscale; /* 使字體灰度抗鋸齒狀 */
+}
